@@ -1,0 +1,16 @@
+{
+  "name": "janyksteenbeek/ytx-cochannels",
+  "description": "Invite and remove channels from your content owner",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Janyk Steenbeek",
+      "email": "info@janyksteenbeek.nl"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "janyksteenbeek\\COChannels\\": "src/"
+    }
+  }
+}

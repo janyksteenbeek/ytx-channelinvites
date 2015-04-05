@@ -10,7 +10,6 @@ class COChannels {
      * @param $username
      * @param $password
      * @param $contentowner
-     * @throws Exception
      */
     public function __construct($username, $password, $contentowner) {
         $this->curl = curl_init();

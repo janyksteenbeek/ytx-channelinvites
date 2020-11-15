@@ -1,6 +1,8 @@
 # YTX - Content Owner channels library
 This library allows you to link and remove channels from your YouTube content owner.
 
+> This library was intented to work with Legacy CMS. As YouTube recently started migrating all features to ReCMS (YouTube Studio), this package no longer works and therefore will be archived.
+
 [![Latest Stable Version](https://poser.pugx.org/janyksteenbeek/ytx-cochannels/v/stable)](https://packagist.org/packages/janyksteenbeek/ytx-cochannels)
 [![Total Downloads](https://poser.pugx.org/janyksteenbeek/ytx-cochannels/downloads)](https://packagist.org/packages/janyksteenbeek/ytx-cochannels)
 [![License](https://poser.pugx.org/janyksteenbeek/ytx-cochannels/license)](https://packagist.org/packages/janyksteenbeek/ytx-cochannels)
